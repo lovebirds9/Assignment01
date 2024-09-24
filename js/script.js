@@ -33,6 +33,7 @@
 //let zipCode = 91999
 
 //6
+// this will be our second commit
 const firstName = 'Cenia';
 const zipCode = 91999;
 const sum = firstName + zipCode;
